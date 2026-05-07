@@ -1,2 +1,2 @@
-# CVD-Prediction-from-Retinal-images-using-Deep-Learning-and-computer-Vision-main
+# CVD-Prediction-from-Retinal-images
  
